@@ -1,16 +1,4 @@
-# Vaatu Tech
+# Vaatu Tech - Community Health Files
 
-Pioneering next-gen development infrastructure. Creating elegant, efficient solutions that empower developers.
+This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`vaatu-tech`]([https://github.com/laravel](https://github.com/vaatu-tech)) organization.
 
-## Our Projects
-
-- [framework](https://github.com/vaatu-tech/framework) - Next-generation development infrastructure and tooling framework
-
-## Resources
-
-- [Website](https://vaatu.eu)
-- [Documentation](https://docs.vaatu.eu)
-
-## Contributing
-
-We welcome contributions! Please read our contributing guidelines before submitting pull requests.
