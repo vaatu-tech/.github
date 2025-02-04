@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://vaatu.eu" target="_blank"><img src="https://raw.githubusercontent.com/vaatu-tech/.github/refs/heads/master/logo.png" width="400"></a>
+<a href="https://vaatu.eu" target="_blank"><img src="https://raw.githubusercontent.com/vaatu-tech/.github/refs/heads/master/profile/logo-v3-text-homage.png" width="800"></a>
 </p>
 
 ## About Vaatu Framework
